@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Dylan Pierce
 
-<!--
-**DylanPierce15/DylanPierce15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student passionate about building practical software projects using Python, JavaScript, and embedded systems.
 
-Here are some ideas to get you started:
+### 🌟 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 [Library Management System](https://github.com/yourusername/library-management-system)  
+  Flask-based web app for managing user records and live sign-in tracking.
+  
+- 🏹 [Hand Gesture Archery Game](https://github.com/yourusername/hand-gesture-archery-game)  
+  An OpenCV-based game controlled by hand gestures using MediaPipe.
+
+- 🚗 [Auto Detailing Business Website](https://github.com/yourusername/auto-detailing-booking-website)  
+  Full-stack website for a local car detailing business with online booking and gallery.
+
+- 🤖 [Autonomous Vehicle Design](https://github.com/yourusername/autonomous-vehicle-prototype-enes100)  
+  Arduino-powered prototype with CAD-designed chassis and mission automation.
+
+### 📫 Let's Connect
+- [LinkedIn](linkedin.com/in/dylan-pierce)
+- [Resume](https://drive.google.com/file/d/1kIcDENfrVqxhBY934Hn-CnQzZZWB1-Lh/view?usp=sharing)
