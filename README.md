@@ -18,4 +18,4 @@ I'm a Computer Science/Computer Engineering student passionate about building pr
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/dylan-pierce-2466a328b)
-- [Resume](https://drive.google.com/file/d/1kIcDENfrVqxhBY934Hn-CnQzZZWB1-Lh/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1PR_qzyr5cd4GcoqpfXTHoCgyjby1CN_f/view?usp=sharing)
