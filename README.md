@@ -4,7 +4,7 @@ I'm a computer science student passionate about building practical software proj
 
 ### 🌟 Featured Projects
   
-- 🏹 [Hand Archery Game](https://github.com/yourusername/hand-archery)  
+- 🏹 [Hand Archery Game](https://github.com/DylanPierce15/hand-archery)  
   An OpenCV-based game controlled by hand gestures using MediaPipe.
 
 - 🚗 [Auto Detailing Business Website](https://github.com/yourusername/auto-detailing-booking-website)  
