@@ -4,7 +4,7 @@ I'm a computer science student passionate about building practical software proj
 
 ### 🌟 Featured Projects
 
-- 📚 [Library Management System](https://github.com/DylanPierce15/database)  
+- 📚 [Library Management System](https://github.com/DylanPierce15/library-database)  
   Flask-based web app for managing user records and live sign-in tracking.
   
 - 🏹 [Hand Gesture Archery Game](https://github.com/yourusername/hand-gesture-archery-game)  
