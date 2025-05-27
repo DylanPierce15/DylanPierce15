@@ -13,7 +13,7 @@ I'm a computer science student passionate about building practical software proj
 - 🚗 [Auto Detailing Business Website](https://github.com/yourusername/auto-detailing-booking-website)  
   Full-stack website for a local car detailing business with online booking and gallery.
 
-- 🤖 [Autonomous Vehicle Design](https://github.com/yourusername/autonomous-vehicle-prototype-enes100)  
+- 🤖 [Autonomous Vehicle Design](https://github.com/DylanPierce15/autonomous-vehicle-design)  
   Arduino-powered prototype with CAD-designed chassis and mission automation.
 
 ### 📫 Let's Connect
