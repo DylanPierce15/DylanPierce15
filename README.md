@@ -17,5 +17,5 @@ I'm a Computer Science/Computer Engineering student passionate about building pr
   Flask-based web app for managing user records and live sign-in tracking.
 
 ### 📫 Let's Connect
-- [LinkedIn](linkedin.com/in/dylan-pierce)
+- [LinkedIn](https://www.linkedin.com/in/dylan-pierce-2466a328b)
 - [Resume](https://drive.google.com/file/d/1kIcDENfrVqxhBY934Hn-CnQzZZWB1-Lh/view?usp=sharing)
