@@ -7,7 +7,7 @@ I'm a Computer Science/Computer Engineering student passionate about building pr
 - 🏹 [Hand Archery Game](https://github.com/DylanPierce15/hand-archery)  
   An OpenCV-based game controlled by hand gestures using MediaPipe.
 
-- 🚗 [Auto Detailing Business Website](https://github.com/yourusername/auto-detailing-booking-website)  
+- 🚗 [Auto Detailing Business Website](https://github.com/DylanPierce15/car-detailing-website)  
   Full-stack website for a local car detailing business with online booking and gallery.
 
 - 🤖 [Autonomous Vehicle Design](https://github.com/DylanPierce15/autononomous-vehicle-design)  
