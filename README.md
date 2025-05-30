@@ -19,6 +19,7 @@ I'm a Computer Science/Computer Engineering student passionate about building pr
 ## 🚧 Future Projects
 
 - 🎮 Build a 2D platforming game using Unity and C#, along with using Aseprite to design the characters and features
+
 - 🤖 Create a stemplayer to separate audio files, including options to download this files and combine two
 
 ### 📫 Let's Connect
