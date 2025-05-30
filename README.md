@@ -16,6 +16,11 @@ I'm a Computer Science/Computer Engineering student passionate about building pr
 - 📚 [Library Management System](https://github.com/DylanPierce15/library-database)  
   Flask-based web app for managing user records and live sign-in tracking.
 
+## 🚧 Future Projects
+
+- 🎮 Build a 2D platforming game using Unity and C#, along with using Aseprite to design the characters and features
+- 🤖 Create a stemplayer to separate audio files, including options to download this files and combine two
+
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/dylan-pierce-2466a328b)
 - [Resume](https://drive.google.com/file/d/1PR_qzyr5cd4GcoqpfXTHoCgyjby1CN_f/view?usp=sharing)
