@@ -20,7 +20,7 @@ I'm a Computer Science/Computer Engineering student at the University of Marylan
 
 - 🎮 Build a 2D platforming game using Unity and C#, along with using Aseprite to design the characters and features
 
-- 🤖 Create a stemplayer to separate audio files, including options to download this files and combine two
+- 🤖 Create a stemplayer to separate audio files, including options to download the split files and combine files
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/dylan-pierce-2466a328b)
