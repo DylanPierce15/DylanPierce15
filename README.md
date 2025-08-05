@@ -22,6 +22,8 @@ I'm a Computer Science/Computer Engineering student at the University of Marylan
 
 - 🤖 Create a stemplayer to separate audio files, including options to download the split files and combine files
 
+- 🍔 Develop an app that allows users at stadiums to order from concession stands ahead of time 
+
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/dylan-pierce-2466a328b)
 - [Resume](https://drive.google.com/file/d/1PR_qzyr5cd4GcoqpfXTHoCgyjby1CN_f/view?usp=sharing)
