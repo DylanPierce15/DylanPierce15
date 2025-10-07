@@ -26,4 +26,4 @@ I'm a Computer Science/Computer Engineering student at the University of Marylan
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/dylan-pierce-2466a328b)
-- [Resume](https://drive.google.com/file/d/1kMwxlbuhG3Pcm7X1KQ6Rnt2XSN7bXfVf/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/17kOVkNhwC8JmHIsSLaihvLic-ncbX8qj/view?usp=sharing)
