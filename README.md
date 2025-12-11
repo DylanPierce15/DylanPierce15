@@ -16,11 +16,11 @@ I'm a Computer Science/Computer Engineering student at the University of Marylan
 - 📚 [Library Management System](https://github.com/DylanPierce15/library-database)  
   Flask-based web app for managing user records and live sign-in tracking.
 
-## 🚧 Future Projects
+## 🚧 In Progress/Future Projects
+
+- 🎶 Currently creating a full stack web application that uses AI to analyze song lyrics and allowing personal user comments
 
 - 🤖 Create a stemplayer to separate audio files, including options to download the split files and combine files
-
-- 🍔 Develop an app that allows users at stadiums to order from concession stands ahead of time 
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/dylan-pierce-2466a328b)
