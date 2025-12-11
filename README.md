@@ -1,6 +1,6 @@
 Hi, I'm Dylan Pierce
 
-I'm a Computer Science/Computer Engineering student at the University of Maryland passionate about building practical and fun projects using Java, Python, JavaScript, CSS, and HTML.
+I'm a Computer Science Major and Mathematics Minor at the University of Maryland passionate about building practical and fun projects using Java, Python, JavaScript, and Mysql, my main passions are Sports, Lifting, Music, Skiing, and Hiking/Travel.
 
 ### 🌟 Featured Projects
 
