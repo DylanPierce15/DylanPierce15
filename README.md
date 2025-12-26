@@ -17,9 +17,6 @@ I'm a Computer Science Major and Mathematics Minor at the University of Maryland
 - 🤖 [Autonomous Vehicle Design](https://github.com/DylanPierce15/autononomous-vehicle-design)  
   Arduino-powered prototype with CAD-designed chassis and mission automation.
 
-- 📚 [Library Management System](https://github.com/DylanPierce15/library-database)  
-  Flask-based web app for managing user records and live sign-in tracking.
-
 ## 🚧 Future Projects
 
 - 🤖 Create a stemplayer to separate audio files, including options to download the split files and combine files
