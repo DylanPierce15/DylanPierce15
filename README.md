@@ -4,6 +4,10 @@ I'm a Computer Science Major and Mathematics Minor at the University of Maryland
 
 ### 🌟 Featured Projects
 
+- 🎶 [Lyric Lens](https://github.com/DylanPierce15/LyricLens)
+  Full-stack web application that uses AI to analyze song lyrics, provide insights, and  allow users to keep track of their own personal library
+  *Tech:* React, FastAPI/Flask, JavaScript, Python, MySql, Postgresql, Docker
+
 - 🚗 [Auto Detailing Business Website](https://github.com/DylanPierce15/car-detailing-website)  
   Full-stack website for my local car detailing business with online booking and gallery.
   
@@ -17,8 +21,6 @@ I'm a Computer Science Major and Mathematics Minor at the University of Maryland
   Flask-based web app for managing user records and live sign-in tracking.
 
 ## 🚧 In Progress/Future Projects
-
-- 🎶 Currently creating a full stack web application that uses AI to analyze song lyrics and allowing personal user comments
 
 - 🤖 Create a stemplayer to separate audio files, including options to download the split files and combine files
 
